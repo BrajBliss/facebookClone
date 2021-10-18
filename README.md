@@ -20,4 +20,4 @@ https://user-images.githubusercontent.com/50140643/137733822-3d55075c-3b71-4cae-
 
 > ATM working on connecting both ends
 
-> Credits when the project ends
+> All credits: lamaDev(YT)
