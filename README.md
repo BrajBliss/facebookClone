@@ -16,5 +16,5 @@ MONGO_URL = yourMongoDBConnectionURL
 
 ## Demo
 
-> ATM working on frontEnd
+> ATM working on connecting both ends
 > Credits when the project ends
