@@ -8,6 +8,8 @@ Simple FB Clone using MERN Stack
 
 ### Install all dependencies from `package.json` files in both server and client sides
 
+### Use Amazon, Firebase or something for uploading images but I have just used server side. Not a good idea.
+
 ### Create `.env` file in server side and put
 
 ```
