@@ -1,7 +1,6 @@
 import './post.css';
 import { MoreVert } from '@material-ui/icons';
-import { useContext, useState } from 'react';
-import { useEffect } from 'react';
+import { useContext, useEffect, useState } from 'react';
 import axios from 'axios';
 import { format } from 'timeago.js';
 import { Link } from 'react-router-dom';
@@ -31,17 +30,16 @@ export default function Post({ post }) {
 			axios.put('/posts/' + post._id + '/like', {
 				userId: currentUser._id,
 			});
-		} catch (err) {
-			setLike(isLiked ? like - 1 : like + 1);
-			setIsLiked(!isLiked);
-		}
+		} catch (err) {}
+		setLike(isLiked ? like - 1 : like + 1);
+		setIsLiked(!isLiked);
 	};
 	return (
 		<div className='post'>
 			<div className='postWrapper'>
 				<div className='postTop'>
 					<div className='postTopLeft'>
-						<Link to={`profile/${user.username}`}>
+						<Link to={`/profile/${user.username}`}>
 							<img
 								className='postProfileImg'
 								src={
