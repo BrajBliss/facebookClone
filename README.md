@@ -20,4 +20,4 @@ MONGO_URL = yourMongoDBConnectionURL
 
 https://user-images.githubusercontent.com/50140643/137733822-3d55075c-3b71-4cae-8a29-7caa4aa5f357.mp4
 
-> All credits: lamaDev(YT)
+> Credit: LamaDev(YT)
