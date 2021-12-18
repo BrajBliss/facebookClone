@@ -21,3 +21,5 @@ MONGO_URL = yourMongoDBConnectionURL
 https://user-images.githubusercontent.com/50140643/137733822-3d55075c-3b71-4cae-8a29-7caa4aa5f357.mp4
 
 > Credit: LamaDev(YT)
+
+![Alt](https://repobeats.axiom.co/api/embed/5296be9118eb1a3d6f063fcd6683e916edf97d9a.svg "Repobeats analytics image")
