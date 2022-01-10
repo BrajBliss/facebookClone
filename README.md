@@ -1,6 +1,7 @@
 # Facebook Clone
 
 Simple FB Clone using MERN Stack
+> Hosting this project and adding more details soon!
 
 ## Features
 
